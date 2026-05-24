@@ -1,0 +1,9 @@
+allergyId:ID(Allergy),name,trigger
+1,Peanut Allergy,Peanuts
+2,Lactose Intolerance,Milk
+3,Nut Allergy,Hazelnuts
+4,Gluten Allergy,Flour
+5,Soy Allergy,Soy
+6,Sesame Allergy,Sesame
+7,Egg Allergy,Butter
+8,Coconut Allergy,Coconut

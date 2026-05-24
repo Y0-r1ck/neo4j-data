@@ -1,0 +1,51 @@
+ingredientId:ID(Ingredient),name
+1,Sugar
+2,Salt
+3,Cocoa
+4,Milk
+5,Peanuts
+6,Hazelnuts
+7,Almonds
+8,Flour
+9,Butter
+10,Corn
+11,Potato
+12,Caramel
+13,Vanilla
+14,Honey
+15,Rice
+16,Oats
+17,Soy
+18,Chocolate
+19,Strawberry
+20,Banana
+21,Apple
+22,Cinnamon
+23,Cheese
+24,Tomato
+25,Paprika
+26,Chili
+27,Garlic
+28,Onion
+29,Sunflower Oil
+30,Palm Oil
+31,Coconut
+32,Coffee
+33,Yogurt
+34,Blueberry
+35,Raspberry
+36,Orange
+37,Lemon
+38,Mint
+39,Matcha
+40,Carrot
+41,Spinach
+42,Quinoa
+43,Protein
+44,Cashew
+45,Walnut
+46,Pistachio
+47,Sesame
+48,Sea Salt
+49,Maple Syrup
+50,Ginger
